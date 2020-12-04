@@ -1,0 +1,16 @@
+# python tools/train_net.py --config-file 'configs/ring_cell/rc_retinanet_R-50-FPN_1x_pair.yaml'
+# python tools/train_net.py --config-file 'configs/ring_cell/rc_retinanet_R-50-FPN_1x_triplet.yaml'
+# python tools/train_net.py --config-file 'configs/ring_cell/rc_retinanet_R_101_FPN_1x.yaml'
+# python tools/train_net.py --config-file 'configs/ring_cell/rc_retinanet_R_101_FPN_1x_pair.yaml'
+# python tools/train_net.py --config-file 'configs/ring_cell/rc_retinanet_R_101_FPN_1x_triplet.yaml'
+# python tools/train_net.py --config-file 'configs/ring_cell/rc_retinanet_X_101_32x8d_FPN_1x_pair.yaml'
+
+# python tools/train_net.py --config-file 'configs/monuseg/rc_retinanet_X_101_32x8d_FPN_1x_triplet_m_05.yaml'
+# python tools/train_net.py --config-file 'configs/monuseg/rc_retinanet_X_101_32x8d_FPN_1x_triplet_m_30.yaml'
+# python tools/train_net.py --config-file 'configs/monuseg/rc_retinanet_X_101_32x8d_FPN_1x_triplet_m_50.yaml'
+
+# python tools/train_net.py --config-file 'configs/monuseg/rc_retinanet_X_101_32x8d_FPN_1x_pair_m_05.yaml'
+# python tools/train_net.py --config-file 'configs/monuseg/rc_retinanet_X_101_32x8d_FPN_1x_pair_m_15.yaml'
+# python tools/train_net.py --config-file 'configs/monuseg/rc_retinanet_X_101_32x8d_FPN_1x_pair_m_20.yaml'
+python tools/train_net.py --config-file 'configs/monuseg/rc_retinanet_X_101_32x8d_FPN_1x_pair_m_30.yaml'
+python tools/train_net.py --config-file 'configs/monuseg/rc_retinanet_X_101_32x8d_FPN_1x_pair_m_40.yaml'

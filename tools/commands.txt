@@ -1,0 +1,2 @@
+python test_net.py --config-file '...' --ckpt '...'
+python train_net.py --config-file '...'
